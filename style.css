@@ -1,46 +1,46 @@
 
-h1 {
-	font-size: 30px;
-	color: orange;
-	line-height: 20px;
-	display: block;
+	h1 {
+		font-size: 30px;
+		color: orange;
+		line-height: 20px;
+		display: block;
 
-}
-h2 {
-	font-size: 30px;
-	color: orange;
-	line-height: 20px;
-	display: block;
-}
+	}
+	h2 {
+		font-size: 30px;
+		color: orange;
+		line-height: 20px;
+		display: block;
+	}
 
-h3 {
-	font-size: 30px;
-	color: orange;
-	line-height: 20px;
-	display: block;
+	h3 {
+		font-size: 30px;
+		color: orange;
+		line-height: 20px;
+		display: block;
 
-}
+	}
 
-h4 {
-	font-size: 30px;
-	color: orange;
-	line-height: 20px;
-	display: block;
+	h4 {
+		font-size: 30px;
+		color: orange;
+		line-height: 20px;
+		display: block;
 
-}
+	}
 
-img {
-	width: 50%;
-	height: 50%;
-}
-#main {
-	width: 100%;
-}
+	img {
+		width: 50%;
+		height: 50%;
+	}
+	#main {
+		width: 100%;
+	}
 
-.headers {
-	font-style: italic
-}
+	.headers {
+		font-style: italic
+	}
 
-body { 
-	background: url('yellow.jpg'); 
-}
+	body { 
+		background: url('yellow.jpg'); 
+	}
